@@ -64,6 +64,7 @@ const Menu = () => {
       { name: "Rajma Veg", price: 120 },
       { name: "Chole Veg", price: 120 },
     ],
+    
     Thali: [
         { category: "Normal Thali", items: [{ name: "4 Roti + 2 Sabji + 1 bowl Rice + Dal + Salad", price: 79 }] },
         { category: "Sweets Thali", items: [{ name: "4 Roti + 2 Sabji + 1 Bowl Fried Rice + Mix Dal + Salad", price: 99 }] },
