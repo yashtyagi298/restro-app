@@ -9,6 +9,7 @@ export default {
     extend: {
       colors:{
         primary:"#FF7426",
+        cartBg: "#E7FAFE",
         dark:{
           5:'rgba(0,0,0,0.5)',
           60:'rgba(0,0,0,0.6)',
