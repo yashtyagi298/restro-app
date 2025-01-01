@@ -16,8 +16,6 @@ function App() {
   return (
     <Router>
       <Navbar />
-      
-      
       <Routes>
         {/* Home Page */}
         <Route
