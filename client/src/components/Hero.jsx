@@ -46,7 +46,7 @@ const Hero = () => {
 						<div className='flex items-center gap-x-4 w-full sm:basis-1/3 md:basis-1/2'>
 							<img
 								className='w-[50px] h-[50px] object-cover'
-								src='/images/user-image.png'
+								src='/images/user-2-image.png'
 								alt='user image'
 							/>
 							<div className='flex justify-start flex-col'>
