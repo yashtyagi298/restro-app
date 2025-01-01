@@ -16,7 +16,7 @@ const Footer = () => {
 			{/* Footer bottom */}
 			<div className='flex justify-center items-center'>
 				<p className='text-center text-dark-60 m-0 pt-2 z-20'>
-					&copy; {new Date().getFullYear()} Yash Tyagi. Powered by CodeShree
+					&copy; {new Date().getFullYear()} Powered by CodeShree
 				</p>
 			</div>
 		</div>
