@@ -16,7 +16,7 @@ const Navbar = () => {
   const closeNav = () => {
     setIsOpen(false);
   };
-  const phoneNumber = "9368338064"; // Replace with your WhatsApp number
+  const phoneNumber = "6201972182"; // Replace with your WhatsApp number
   const message = "Hello! I would like to inquire about your services."; // Optional default message
 
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
@@ -79,10 +79,10 @@ const Navbar = () => {
 
         {/* Social icons */}
         <div className="flex items-center justify-end gap-x-4 xl:gap-x-10 w-auto z-20 lg:w-40">
-          <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/profile.php?id=61571539645512&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
             <FacebookIcon color="black" />
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/hiralaldirasoi" target="_blank" rel="noopener noreferrer">
             <InstagramIcon color="black" />
           </a>
           {/* Mobile menu trigger */}
