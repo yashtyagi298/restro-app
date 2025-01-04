@@ -51,7 +51,7 @@ export const recipes = {
 		},
 		{
 			id: 8,
-			title: 'The Best Easy One Pot Chicken and Rice',
+			title: 'Paneer Rajma Delight with Roti',
 			imageUrl: 'rajma paneer.png',
 			time: 25,
 			type: 'Dinner',

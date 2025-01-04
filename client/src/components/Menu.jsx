@@ -107,7 +107,7 @@ const Menu = () => {
     ],
    
   };
-
+  
   const sectionIcons = {
     Thali: <FaThList />,
     Snacks: <FaConciergeBell />,
